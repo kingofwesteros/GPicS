@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPicS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="get_words">Coordinates</string>
+    <string name="pic_words">Label</string>
+    <string name="send_words">Send To</string>
+    <string name="self_button">Me</string>
+    <string name="other_button">Other</string>
+    <string name="get">Get</string>
+    <string name="pic">Pic</string>
+    <string name="send">Save</string>
+    <string name="gps">GPS</string>
+    <string name="getButton">Get</string>
+    <string name="resetButton">Reset</string>
+    <string name="about"></string>
+    <string name="title_activity_get_picture">Get Picture</string>
+    
+    <string name="takePicture">Take Picture</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="sendInfo">Send</string>
+
+</resources>
